@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyGetForFirstCrack", "KeyGetForFirstCrack.vcxproj", "{586E1104-F780-46C2-A22B-113B8630D3B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{586E1104-F780-46C2-A22B-113B8630D3B7}.Debug|x64.ActiveCfg = Debug|x64
+		{586E1104-F780-46C2-A22B-113B8630D3B7}.Debug|x64.Build.0 = Debug|x64
+		{586E1104-F780-46C2-A22B-113B8630D3B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{586E1104-F780-46C2-A22B-113B8630D3B7}.Debug|x86.Build.0 = Debug|Win32
+		{586E1104-F780-46C2-A22B-113B8630D3B7}.Release|x64.ActiveCfg = Release|x64
+		{586E1104-F780-46C2-A22B-113B8630D3B7}.Release|x64.Build.0 = Release|x64
+		{586E1104-F780-46C2-A22B-113B8630D3B7}.Release|x86.ActiveCfg = Release|Win32
+		{586E1104-F780-46C2-A22B-113B8630D3B7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B4844E-4608-42D7-9935-6D3F73DB6CAF}
+	EndGlobalSection
+EndGlobal
